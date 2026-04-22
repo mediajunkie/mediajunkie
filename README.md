@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on VA Benefits Crew
-- 🌱 I’m currently learning the architecture of claims reviews.
+- 🔭 I’m currently working for Kind Systems
+- 🌱 I’m currently learning agentic product strategy and development
 - 👯 I’m looking to collaborate on reducing complexity
 - 🤔 I’m looking for help with connecting to product people
 - 💬 Ask me about Chesterton's fence
